@@ -17,6 +17,6 @@
 - python-telegram-bot
 
 # how to run
-위의 환경들을 세팅한 후에
-account.yaml에 동행복권 id와 pw를 입력하고 main.py를 실행하시면 됩니다.
+위의 환경들을 세팅한 후에 account.yaml에 동행복권 id와 pw를 입력하고 main.py를 실행하시면 됩니다.
+
 telegram.yaml은 구매후 메세지 전송을 위해서 연결하고 싶은 텔레그램 봇의 id와 api-key를 입력하면 됩니다.(선택) 자세한 내용은 다음 링크를 참조하세요 https://python-telegram-bot.org/
